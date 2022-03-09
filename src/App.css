@@ -1,0 +1,11 @@
+.app {
+  text-align: center;
+}
+.addCash{
+  font-size: 3rem;
+  margin-top: 100px;
+}
+.btnWrp {
+  display: flex;
+  justify-content: center;
+}
